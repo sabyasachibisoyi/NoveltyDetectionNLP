@@ -1,0 +1,502 @@
+[
+    {
+        "question": "1840 crew members are going on a trip. If they hire 36 buses and each bus has a capacity of 19 seats, how many crew members will not get seats?",
+        "options": [
+            50,
+            0,
+            1156,
+            857
+        ],
+        "answer": 1156
+    },
+    {
+        "question": "818 friends are going on a trip. If they hire 35 buses and each bus has a capacity of 9 seats, how many friends will not get seats?",
+        "options": [
+            0,
+            503,
+            232,
+            272
+        ],
+        "answer": 503
+    },
+    {
+        "question": "898 travellers are going on a trip. If they hire 38 buses and each bus has a capacity of 13 seats, how many travellers will not get seats?",
+        "options": [
+            0,
+            404,
+            387,
+            522
+        ],
+        "answer": 404
+    },
+    {
+        "question": "751 children are going on a trip. If they hire 53 buses and each bus has a capacity of 5 seats, how many children will not get seats?",
+        "options": [
+            42,
+            0,
+            486,
+            5
+        ],
+        "answer": 486
+    },
+    {
+        "question": "5566 students are going on a trip. If they hire 62 buses and each bus has a capacity of 44 seats, how many students will not get seats?",
+        "options": [
+            5044,
+            2838,
+            0,
+            1850
+        ],
+        "answer": 2838
+    },
+    {
+        "question": "Robin once read a list of the tallest people in the world. One of them was 450 feet tall! That is just 9 times of Robin height. How tall is Robin in feet?",
+        "options": [
+            100,
+            388,
+            50,
+            4
+        ],
+        "answer": 50
+    },
+    {
+        "question": "Pamela once read a list of the tallest people in the world. One of them was 30 inches tall! That is just 5 times of Pamela height. How tall is Pamela in inches?",
+        "options": [
+            41,
+            5,
+            6,
+            12
+        ],
+        "answer": 6
+    },
+    {
+        "question": "Robin once read a list of the tallest people in the world. One of them was 24 feet tall! That is just 3 times of Robin height. How tall is Robin in feet?",
+        "options": [
+            0,
+            8,
+            24,
+            73
+        ],
+        "answer": 8
+    },
+    {
+        "question": "John once read a list of the tallest people in the world. One of them was 15 feet tall! That is just 5 times of John height. How tall is John in feet?",
+        "options": [
+            2,
+            3,
+            8,
+            66
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Pamela once read a list of the tallest people in the world. One of them was 500 feet tall! That is just 10 times of Pamela height. How tall is Pamela in feet?",
+        "options": [
+            38,
+            50,
+            250,
+            54
+        ],
+        "answer": 50
+    },
+    {
+        "question": "Francis has 12 cars. Francis gives the cars on rent, each for 984 dollars per day. On Saturday he does not take any money for them. In a week, how much does he earn from 11 cars?",
+        "options": [
+            5412,
+            7068,
+            206,
+            49
+        ],
+        "answer": 5412
+    },
+    {
+        "question": "Pamela has 7 books. Pamela gives the books on rent, each for 693 dollars per day. On Wednesday he does not take any money for them. In a week, how much does he earn from 6 books?",
+        "options": [
+            83,
+            12664,
+            16,
+            3564
+        ],
+        "answer": 3564
+    },
+    {
+        "question": "Harry has 4 bikes. Harry gives the bikes on rent, each for 280 dollars per day. On Friday he does not take any money for them. In a week, how much does he earn from 2 bikes?",
+        "options": [
+            3948,
+            55,
+            86,
+            840
+        ],
+        "answer": 840
+    },
+    {
+        "question": "Pamela has 16 houses. Pamela gives the houses on rent, each for 992 dollars per day. On Thursday he does not take any money for them. In a week, how much does he earn from 13 houses?",
+        "options": [
+            4836,
+            18183,
+            13,
+            368
+        ],
+        "answer": 4836
+    },
+    {
+        "question": "Francis has 11 cars. Francis gives the cars on rent, each for 660 dollars per day. On Sunday he does not take any money for them. In a week, how much does he earn from 7 cars?",
+        "options": [
+            91,
+            2520,
+            6304,
+            121
+        ],
+        "answer": 2520
+    },
+    {
+        "question": "Mary has small bottles. Mary uses 13 of them to fill one large bottles of capacity 364 litres. How much is the capacity of one small bottles in litres?",
+        "options": [
+            364,
+            181,
+            3,
+            28
+        ],
+        "answer": 28
+    },
+    {
+        "question": "John has small mugs. John uses 15 of them to fill one large mugs of capacity 450 millileters. How much is the capacity of one small mugs in millileters?",
+        "options": [
+            30,
+            125,
+            450,
+            11
+        ],
+        "answer": 30
+    },
+    {
+        "question": "Mary has small jars. Mary uses 16 of them to fill one large jars of capacity 320 L. How much is the capacity of one small jars in L?",
+        "options": [
+            313,
+            12,
+            20,
+            320
+        ],
+        "answer": 20
+    },
+    {
+        "question": "Pamela has small mugs. Pamela uses 9 of them to fill one large mugs of capacity 135 gallons. How much is the capacity of one small mugs in gallons?",
+        "options": [
+            135,
+            19,
+            15,
+            13
+        ],
+        "answer": 15
+    },
+    {
+        "question": "Mary has small jars. Mary uses 9 of them to fill one large jars of capacity 18 L. How much is the capacity of one small jars in L?",
+        "options": [
+            17,
+            2,
+            0,
+            18
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Robin bought 4 kilos of capsicum from the market for 60 dollars. How much more does Robin need to pay to buy a total of 42 kilos of capsicum?",
+        "options": [
+            1696,
+            60,
+            23,
+            570
+        ],
+        "answer": 570
+    },
+    {
+        "question": "Pamela bought 11 pounds of onions from the market for 517 dollars. How much more does Pamela need to pay to buy a total of 81 pounds of onions?",
+        "options": [
+            298,
+            3290,
+            517,
+            11927
+        ],
+        "answer": 3290
+    },
+    {
+        "question": "Charles bought 28 kilos of capsicum from the market for 784 dollars. How much more does Charles need to pay to buy a total of 58 kilos of capsicum?",
+        "options": [
+            840,
+            315,
+            3285,
+            784
+        ],
+        "answer": 840
+    },
+    {
+        "question": "Alex bought 38 kilos of carrots from the market for 912 dollars. How much more does Alex need to pay to buy a total of 59 kilos of carrots?",
+        "options": [
+            912,
+            41,
+            504,
+            507
+        ],
+        "answer": 504
+    },
+    {
+        "question": "Alex bought 41 kilos of onions from the market for 1640 dollars. How much more does Alex need to pay to buy a total of 64 kilos of onions?",
+        "options": [
+            1640,
+            1872,
+            920,
+            68
+        ],
+        "answer": 920
+    },
+    {
+        "question": "If a person who owns a salon earns 485 dollars in a day, how much will he earn in 997 weeks?",
+        "options": [
+            4975,
+            3384815,
+            2153,
+            485
+        ],
+        "answer": 3384815
+    },
+    {
+        "question": "If a person who owns a super market earns 846 dollars in a day, how much will he earn in 734 years?",
+        "options": [
+            6799555800,
+            478,
+            846,
+            3090
+        ],
+        "answer": 6799555800
+    },
+    {
+        "question": "If a person who owns a grocery store earns 285 dollars in a day, how much will he earn in 91 years?",
+        "options": [
+            283988250,
+            322,
+            3882,
+            285
+        ],
+        "answer": 283988250
+    },
+    {
+        "question": "If a person who owns a shop earns 722 dollars in a day, how much will he earn in 360 weeks?",
+        "options": [
+            1229,
+            2892,
+            722,
+            1819440
+        ],
+        "answer": 1819440
+    },
+    {
+        "question": "If a person who owns a school earns 85 dollars in a day, how much will he earn in 769 years?",
+        "options": [
+            3806,
+            715746750,
+            85,
+            323
+        ],
+        "answer": 715746750
+    },
+    {
+        "question": "Two teachers plan to jog along a 308 cm trail, starting at opposite ends of the trail at the same time. If O's rate is 32 % faster than P's, how many cm will O have walked when they pass each other?",
+        "options": [
+            32,
+            83,
+            175,
+            154
+        ],
+        "answer": 175
+    },
+    {
+        "question": "Two children plan to jog along a 496 km trail, starting at opposite ends of the trail at the same time. If P's rate is 35 % faster than Q's, how many km will P have walked when they pass each other?",
+        "options": [
+            248,
+            250,
+            284,
+            35
+        ],
+        "answer": 284
+    },
+    {
+        "question": "Two teachers plan to jog along a 259 miles trail, starting at opposite ends of the trail at the same time. If U's rate is 3 % slower than V's, how many miles will V have walked when they pass each other?",
+        "options": [
+            131,
+            3,
+            129,
+            136
+        ],
+        "answer": 131
+    },
+    {
+        "question": "Two children plan to brisk walk along a 640 miles trail, starting at opposite ends of the trail at the same time. If U's rate is 50 % faster than V's, how many miles will U have walked when they pass each other?",
+        "options": [
+            50,
+            320,
+            384,
+            468
+        ],
+        "answer": 384
+    },
+    {
+        "question": "Two crew members plan to walk along a 830 cm trail, starting at opposite ends of the trail at the same time. If F's rate is 23 % slower than G's, how many cm will F have walked when they pass each other?",
+        "options": [
+            23,
+            582,
+            361,
+            415
+        ],
+        "answer": 361
+    },
+    {
+        "question": "The speed at which a man can row a boat in still water is 397 milesphr. If he rows downstream, where the speed of current is 262 milesphr, what time in sec will he take to cover 92 km?",
+        "options": [
+            135,
+            659,
+            311,
+            262
+        ],
+        "answer": 311
+    },
+    {
+        "question": "The speed at which a man can row a boat in still water is 96 mpmin. If he rows upstream, where the speed of current is 59 mpmin, what time in sec will he take to cover 39 m?",
+        "options": [
+            37,
+            59,
+            155,
+            63
+        ],
+        "answer": 63
+    },
+    {
+        "question": "The speed at which a man can row a boat in still water is 104 mpmin. If he rows upstream, where the speed of current is 93 mpmin, what time in hr will he take to cover 49 m?",
+        "options": [
+            93,
+            197,
+            267,
+            11
+        ],
+        "answer": 267
+    },
+    {
+        "question": "The speed at which a man can row a boat in still water is 347 kmpmin. If he rows upstream, where the speed of current is 30 kmpmin, what time in hr will he take to cover 90 miles?",
+        "options": [
+            27,
+            377,
+            30,
+            317
+        ],
+        "answer": 27
+    },
+    {
+        "question": "The speed at which a man can row a boat in still water is 714 mpsec. If he rows downstream, where the speed of current is 355 mpsec, what time in sec will he take to cover 42 miles?",
+        "options": [
+            359,
+            1069,
+            355,
+            63
+        ],
+        "answer": 63
+    },
+    {
+        "question": "In the coordinate plane, points (9, y) and (z, 8) are on line u. If line u passes through the origin and has slope 0.04788830469002214, then what are the values of y and z respectively?",
+        "options": [
+            "0and-8",
+            "0and0",
+            "16and-1",
+            "14and0"
+        ],
+        "answer": "14and0"
+    },
+    {
+        "question": "In the coordinate plane, points (1, i) and (j, 0) are on line b. If line b passes through the origin and has slope 0.30544567347721086, then what are the values of i and j respectively?",
+        "options": [
+            "0and0",
+            "7and2",
+            "9and1",
+            "0and-6"
+        ],
+        "answer": "7and2"
+    },
+    {
+        "question": "In the coordinate plane, points (8, w) and (x, 6) are on line k. If line k passes through the origin and has slope 0.1221482805324886, then what are the values of w and x respectively?",
+        "options": [
+            "0and-6",
+            "19and2",
+            "21and1",
+            "0and0"
+        ],
+        "answer": "19and2"
+    },
+    {
+        "question": "In the coordinate plane, points (5, g) and (h, 6) are on line e. If line e passes through the origin and has slope 0.7451453629516553, then what are the values of g and h respectively?",
+        "options": [
+            "0and0",
+            "0and3",
+            "15and11",
+            "17and10"
+        ],
+        "answer": "15and11"
+    },
+    {
+        "question": "In the coordinate plane, points (6, d) and (e, 9) are on line t. If line t passes through the origin and has slope 0.30993569966762946, then what are the values of d and e respectively?",
+        "options": [
+            "12and2",
+            "0and0",
+            "0and-5",
+            "10and3"
+        ],
+        "answer": "10and3"
+    },
+    {
+        "question": "If Charles had coffee at 129 and he gave 34% tip, how much did he spend?",
+        "options": [
+            387,
+            129,
+            172,
+            112
+        ],
+        "answer": 172
+    },
+    {
+        "question": "If Robin had dinner at 158 and he gave 42% tip, how much did he spend?",
+        "options": [
+            948,
+            59,
+            158,
+            224
+        ],
+        "answer": 224
+    },
+    {
+        "question": "If John had food at 33 and he gave 30% tip, how much did he spend?",
+        "options": [
+            33,
+            40,
+            42,
+            297
+        ],
+        "answer": 42
+    },
+    {
+        "question": "If John had food at 346 and he gave 14% tip, how much did he spend?",
+        "options": [
+            140,
+            3460,
+            346,
+            394
+        ],
+        "answer": 394
+    },
+    {
+        "question": "If Charles had food at 202 and he gave 46% tip, how much did he spend?",
+        "options": [
+            1212,
+            202,
+            181,
+            294
+        ],
+        "answer": 294
+    }
+]
