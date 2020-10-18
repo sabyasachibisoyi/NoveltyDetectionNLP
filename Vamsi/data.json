@@ -1,0 +1,290 @@
+[
+    {
+        "answer": "Hockey",
+        "question": "Out of 98 students in a class, 59 students like Hockey, 17 students like Cricket and the rest like Football. Which sport is most liked by the students?",
+        "options": [
+            "Hockey",
+            "Cricket",
+            "Football"
+        ]
+    },
+    {
+        "answer": "Hockey",
+        "question": "Out of 64 students in a class, 52 students like Hockey, 11 students like Cricket and the rest like Tennis. Which sport is most liked by the students?",
+        "options": [
+            "Hockey",
+            "Cricket",
+            "Tennis"
+        ]
+    },
+    {
+        "answer": "Football",
+        "question": "Out of 100 students in a class, 97 students like Football, 2 students like Hockey and the rest like Tennis. Which sport is most liked by the students?",
+        "options": [
+            "Football",
+            "Hockey",
+            "Tennis"
+        ]
+    },
+    {
+        "answer": "Gilbert",
+        "question": "In a year, Gilbert earns 500000 and spends 43140. Thornton earns 100000 and spends 27097. Who will save most among both?",
+        "options": [
+            "Gilbert",
+            "Thornton"
+        ]
+    },
+    {
+        "answer": "Ashley",
+        "question": "In a year, Day earns 100000 and spends 30198. Ashley earns 200000 and spends 23226. Who will save most among both?",
+        "options": [
+            "Day",
+            "Ashley"
+        ]
+    },
+    {
+        "answer": "Webster",
+        "question": "In a year, Webster earns 500000 and spends 34512. Gallegos earns 100000 and spends 34839. Who will save most among both?",
+        "options": [
+            "Webster",
+            "Gallegos"
+        ]
+    },
+    {
+        "options": [
+            "12.5",
+            "11.875",
+            "11.25"
+        ],
+        "answer": "12.5",
+        "question": "16% of all the students are girls and 2% of all the students are girls who take Spanish. What fraction of the girls take Spanish?"
+    },
+    {
+        "options": [
+            "53.2608695652174",
+            "50.59782608695652",
+            "47.934782608695656"
+        ],
+        "answer": "53.2608695652174",
+        "question": "92% of all the students are girls and 49% of all the students are girls who take Latin. What fraction of the girls take Latin?"
+    },
+    {
+        "options": [
+            "52.38095238095239",
+            "49.761904761904766",
+            "47.142857142857146"
+        ],
+        "answer": "52.38095238095239",
+        "question": "42% of all the students are girls and 22% of all the students are girls who take Hindi. What fraction of the girls take Hindi?"
+    },
+    {
+        "options": [
+            "63.333333333333336%",
+            "95.0%",
+            "47.5%"
+        ],
+        "answer": "95.87628865979381",
+        "question": "A pot of soup is divided equally into two bowls. If Hess eats 93% of one of the bowls of soup and 97% of the other bowl of soup, how much of the soup did Hess eat?"
+    },
+    {
+        "options": [
+            "4.333333333333333%",
+            "6.5%",
+            "3.25%"
+        ],
+        "answer": "116.66666666666667",
+        "question": "A pot of soup is divided equally into two bowls. If Ford eats 7% of one of the bowls of soup and 6% of the other bowl of soup, how much of the soup did Ford eat?"
+    },
+    {
+        "options": [
+            "44.333333333333336%",
+            "66.5%",
+            "33.25%"
+        ],
+        "answer": "121.66666666666666",
+        "question": "A pot of soup is divided equally into two bowls. If Nunez eats 73% of one of the bowls of soup and 60% of the other bowl of soup, how much of the soup did Nunez eat?"
+    },
+    {
+        "options": [
+            "Guavas",
+            "Apples",
+            "Kiwis"
+        ],
+        "answer": "Kiwis",
+        "question": "Cost of 12 dozens Guavas is 18$, Cost of 14 dozens of Apples is 38$, cost of 15 dozens of Kiwis is 95. Among the three fruits which one is the costliest?"
+    },
+    {
+        "options": [
+            "Guavas",
+            "Kiwis",
+            "Apples"
+        ],
+        "answer": "Guavas",
+        "question": "Cost of 15 dozens Guavas is 95$, Cost of 20 dozens of Kiwis is 71$, cost of 20 dozens of Apples is 28. Among the three fruits which one is the costliest?"
+    },
+    {
+        "options": [
+            "Kiwis",
+            "Peaches",
+            "Kiwis"
+        ],
+        "answer": "Kiwis",
+        "question": "Cost of 16 dozens Kiwis is 27$, Cost of 10 dozens of Peaches is 21$, cost of 19 dozens of Kiwis is 94. Among the three fruits which one is the costliest?"
+    },
+    {
+        "answer": 61.5,
+        "options": [
+            61.5,
+            51.0,
+            54.5
+        ],
+        "question": "York and Cox order eggs for 8$, pancakes for 8$, and 3 mugs of cocoa for 7$ each. The tax is $1.5. How much change should they get from $100.00?"
+    },
+    {
+        "answer": 41.5,
+        "options": [
+            41.5,
+            14.5,
+            34.5
+        ],
+        "question": "Frazier and Webster order eggs for 1$, pancakes for 2$, and 9 mugs of cocoa for 6$ each. The tax is $1.5. How much change should they get from $100.00?"
+    },
+    {
+        "answer": 79.5,
+        "options": [
+            79.5,
+            75.5,
+            72.5
+        ],
+        "question": "Valenzuela and Stein order eggs for 10$, pancakes for 1$, and 1 mugs of cocoa for 8$ each. The tax is $1.5. How much change should they get from $100.00?"
+    },
+    {
+        "answer": 7.6,
+        "options": [
+            8.6,
+            7.6,
+            6.2
+        ],
+        "question": "Bridges has 60$ to spend at the movie theater. Bridges spends 22$ on a movie ticket. If the snack counter sells bags of choclates for 5$ each, how many bags of choclates can Bridges buy with the money that has left?"
+    },
+    {
+        "answer": 4.25,
+        "options": [
+            4.666666666666667,
+            4.25,
+            3.6666666666666665
+        ],
+        "question": "Potts has 74$ to spend at the movie theater. Potts spends 23$ on a movie ticket. If the snack counter sells bags of cookies for 12$ each, how many bags of cookies can Potts buy with the money that has left?"
+    },
+    {
+        "answer": 3.1538461538461537,
+        "options": [
+            3.5384615384615383,
+            3.1538461538461537,
+            2.6153846153846154
+        ],
+        "question": "Ford has 79$ to spend at the movie theater. Ford spends 38$ on a movie ticket. If the snack counter sells bags of cookies for 13$ each, how many bags of cookies can Ford buy with the money that has left?"
+    },
+    {
+        "answer": 196,
+        "options": [
+            196,
+            6873,
+            6870
+        ],
+        "question": "The library has 6871 books. If each shelf can hold 35 books, how many shelves will the library need to hold all of its books?"
+    },
+    {
+        "answer": 207,
+        "options": [
+            207,
+            9549,
+            9547
+        ],
+        "question": "The library has 9548 books. If each shelf can hold 46 books, how many shelves will the library need to hold all of its books?"
+    },
+    {
+        "answer": 95,
+        "options": [
+            95,
+            3617,
+            3614
+        ],
+        "question": "The library has 3615 books. If each shelf can hold 38 books, how many shelves will the library need to hold all of its books?"
+    },
+    {
+        "answer": "Wolf",
+        "options": [
+            "Cox",
+            "Wolf"
+        ],
+        "question": "Cox and Wolf just raced each other in a 61-yard dash, and it was really close! Cox can run 58 yards in 3 seconds, and Wolf can ran 53 yards in 6 seconds. Who can with the race?"
+    },
+    {
+        "answer": "York",
+        "options": [
+            "Morgan",
+            "York"
+        ],
+        "question": "Morgan and York just raced each other in a 86-yard dash, and it was really close! Morgan can run 85 yards in 5 seconds, and York can ran 62 yards in 4 seconds. Who can with the race?"
+    },
+    {
+        "answer": "Valentine",
+        "options": [
+            "Valentine",
+            "Krueger"
+        ],
+        "question": "Valentine and Krueger just raced each other in a 50-yard dash, and it was really close! Valentine can run 92 yards in 6 seconds, and Krueger can ran 97 yards in 1 seconds. Who can with the race?"
+    },
+    {
+        "answer": "York",
+        "options": [
+            "York",
+            "Flynn"
+        ],
+        "question": "York wants to make 3 bowls of Apples punch and Flynn bowls of 6 punch. Making Peaches bowls of 5 punch requires Apples litres of soda and making 2 bowls of 8 punch requires Peaches litres of soda. Who will require more number of liters of soda to make the juice punch?"
+    },
+    {
+        "answer": "Curry",
+        "options": [
+            "Curry",
+            "Marks"
+        ],
+        "question": "Curry wants to make 5 bowls of Oranges punch and Marks bowls of 5 punch. Making Kiwis bowls of 7 punch requires Oranges litres of soda and making 10 bowls of 10 punch requires Kiwis litres of soda. Who will require more number of liters of soda to make the juice punch?"
+    },
+    {
+        "answer": "Ritter",
+        "options": [
+            "Ritter",
+            "Warner"
+        ],
+        "question": "Ritter wants to make 5 bowls of Peaches punch and Warner bowls of 1 punch. Making Guavas bowls of 1 punch requires Peaches litres of soda and making 6 bowls of 4 punch requires Guavas litres of soda. Who will require more number of liters of soda to make the juice punch?"
+    },
+    {
+        "answer": "Quick clean",
+        "options": [
+            "Quick clean",
+            "Soft 'n Strong",
+            "Super Value"
+        ],
+        "question": "5 ran out of paper towels. At the store, he finds a 17-pack of Quick Clean paper towels for 9$, and a 13-pack of Soft 'n Strong paper towels for 10$, and a 19-pack of Super Value paper towels for #7$. Which brand is of the better value?"
+    },
+    {
+        "answer": "Soft 'n Strong",
+        "options": [
+            "Quick clean",
+            "Soft 'n Strong",
+            "Super Value"
+        ],
+        "question": "8 ran out of paper towels. At the store, he finds a 17-pack of Quick Clean paper towels for 2$, and a 17-pack of Soft 'n Strong paper towels for 5$, and a 18-pack of Super Value paper towels for #7$. Which brand is of the better value?"
+    },
+    {
+        "answer": "Super Value",
+        "options": [
+            "Quick clean",
+            "Soft 'n Strong",
+            "Super Value"
+        ],
+        "question": "10 ran out of paper towels. At the store, he finds a 12-pack of Quick Clean paper towels for 10$, and a 15-pack of Soft 'n Strong paper towels for 5$, and a 11-pack of Super Value paper towels for #7$. Which brand is of the better value?"
+    }
+]
