@@ -1,0 +1,428 @@
+[
+    {
+        "question": "Diya wants to put a picture in a frame.The frame is 1.6580295570175123 metres wide. What can be the width of the picture?",
+        "answer": 1.139997001150327,
+        "option": [
+            2.2591086005247467,
+            2.1417453515142038,
+            2.849791878264784
+        ]
+    },
+    {
+        "question": "Navya wants to put a picture in a frame.The frame is 1.3711220562753728 metres wide. What can be the width of the picture?",
+        "answer": 0.009147841291845428,
+        "option": [
+            3.189697200233233,
+            1.9969790303685753,
+            2.198044644922855
+        ]
+    },
+    {
+        "question": "Siya wants to put a picture in a frame.The frame is 0.8213579167431677 metres wide. What can be the width of the picture?",
+        "answer": 0.16485902420116286,
+        "option": [
+            1.2663182927587848,
+            1.7672954563541956,
+            3.063663769058711
+        ]
+    },
+    {
+        "question": "Dhruv wants to put a picture in a frame.The frame is 0.8776998862050938 metres wide. What can be the width of the picture?",
+        "answer": 0.2499577533837835,
+        "option": [
+            1.648063727802648,
+            3.4172394357275007,
+            2.1148963466518533
+        ]
+    },
+    {
+        "question": "The salary of Vihaan increased from 610 per month to 695 per month while the salary of Sai increased from 326 to 375 and of Ishaan increased from 770 to 823 per month. What is the greatest increase in salary among these three?",
+        "answer": "Ishaan",
+        "option": [
+            "Vihaan",
+            "Sai",
+            "Ishaan",
+            "none of the above"
+        ]
+    },
+    {
+        "question": "The salary of Atharva increased from 436 per month to 747 per month while the salary of Aayan increased from 754 to 858 and of Ananya increased from 605 to 736 per month. What is the greatest increase in salary among these three?",
+        "answer": "Ananya",
+        "option": [
+            "Atharva",
+            "Aayan",
+            "Ananya",
+            "none of the above"
+        ]
+    },
+    {
+        "question": "The salary of Kabir increased from 933 per month to 999 per month while the salary of Ritvik increased from 621 to 747 and of Myra increased from 368 to 746 per month. What is the greatest increase in salary among these three?",
+        "answer": "Myra",
+        "option": [
+            "Kabir",
+            "Ritvik",
+            "Myra",
+            "none of the above"
+        ]
+    },
+    {
+        "question": "The salary of Prisha increased from 570 per month to 620 per month while the salary of Prisha increased from 403 to 997 and of Kabir increased from 333 to 354 per month. What is the greatest increase in salary among these three?",
+        "answer": "Kabir",
+        "option": [
+            "Prisha",
+            "Prisha",
+            "Kabir",
+            "none of the above"
+        ]
+    },
+    {
+        "question": " Out of 3000000 million bacteria grown for an experiment, 1 in 780000000 million has a particular mutation. Approximately how many of the bacteria have the mutation?",
+        "option": [
+            0.004,
+            568,
+            852,
+            668
+        ],
+        "answer": 0.004
+    },
+    {
+        "question": " Out of 59000000000 billion bacteria grown for an experiment, 1 in 593000000 million has a particular mutation. Approximately how many of the bacteria have the mutation?",
+        "option": [
+            99.494,
+            181,
+            687,
+            992
+        ],
+        "answer": 99.494
+    },
+    {
+        "question": " Out of 13000000000 billion bacteria grown for an experiment, 1 in 357000000 million has a particular mutation. Approximately how many of the bacteria have the mutation?",
+        "option": [
+            75,
+            923,
+            36.415,
+            511
+        ],
+        "answer": 36.415
+    },
+    {
+        "question": " Out of 50000000000 billion bacteria grown for an experiment, 1 in 969000000 million has a particular mutation. Approximately how many of the bacteria have the mutation?",
+        "option": [
+            104,
+            51.6,
+            979,
+            407
+        ],
+        "answer": 51.6
+    },
+    {
+        "question": "A tank has a capacity of 85 pints. How many gallons of water would it take to fill the tank to 1/9 of its capacity?",
+        "option": [
+            74,
+            70,
+            81,
+            9.44
+        ],
+        "answer": 9.44
+    },
+    {
+        "question": "A tank has a capacity of 65 pints. How many gallons of water would it take to fill the tank to 2/6 of its capacity?",
+        "option": [
+            21.67,
+            15,
+            18,
+            55
+        ],
+        "answer": 21.67
+    },
+    {
+        "question": "A tank has a capacity of 67 gallons. How many gallons of water would it take to fill the tank to 3/10 of its capacity?",
+        "option": [
+            57,
+            82,
+            49,
+            20.1
+        ],
+        "answer": 20.1
+    },
+    {
+        "question": "A tank has a capacity of 90 gallons. How many gallons of water would it take to fill the tank to 5/7 of its capacity?",
+        "option": [
+            22,
+            61,
+            30,
+            64.29
+        ],
+        "answer": 64.29
+    },
+    {
+        "question": "How many 1-inch square tiles would it take to cover the floor of a closet that has dimensions 2 feet by 1 feet?",
+        "option": [
+            7424,
+            288,
+            5376,
+            1673
+        ],
+        "answer": 288
+    },
+    {
+        "question": "How many 1-inch square tiles would it take to cover the floor of a closet that has dimensions 1 feet by 1 feet?",
+        "option": [
+            546,
+            7468,
+            144,
+            3219
+        ],
+        "answer": 144
+    },
+    {
+        "question": "How many 1-inch square tiles would it take to cover the floor of a closet that has dimensions 2 feet by 1 feet?",
+        "option": [
+            1732,
+            3715,
+            167,
+            288
+        ],
+        "answer": 288
+    },
+    {
+        "question": "How many 1-inch square tiles would it take to cover the floor of a closet that has dimensions 9 feet by 1 feet?",
+        "option": [
+            1296,
+            3492,
+            9882,
+            2279
+        ],
+        "answer": 1296
+    },
+    {
+        "question": "Shanaya earns $7 for each ticket that he sells, and a bonus of $2 per ticket for each ticket he sells over 100. If Shanaya was paid $1857, how many tickets did he sell approximately?",
+        "option": [
+            214,
+            336,
+            228,
+            487
+        ],
+        "answer": 228
+    },
+    {
+        "question": "Arnav earns $16 for each ticket that he sells, and a bonus of $2 per ticket for each ticket he sells over 100. If Arnav was paid $4937, how many tickets did he sell approximately?",
+        "option": [
+            465,
+            285,
+            372,
+            236
+        ],
+        "answer": 285
+    },
+    {
+        "question": "Advik earns $20 for each ticket that he sells, and a bonus of $3 per ticket for each ticket he sells over 100. If Advik was paid $2394, how many tickets did he sell approximately?",
+        "option": [
+            117,
+            491,
+            303,
+            400
+        ],
+        "answer": 117
+    },
+    {
+        "question": "Aarav earns $15 for each ticket that he sells, and a bonus of $3 per ticket for each ticket he sells over 100. If Aarav was paid $3305, how many tickets did he sell approximately?",
+        "option": [
+            318,
+            326,
+            200,
+            116
+        ],
+        "answer": 200
+    },
+    {
+        "question": "Attendees at a charity dinner each gave at least $98 to the charity and a total of $8304 was collected. What is the maximum number of people who could have attended when the total amount collected was tripled?",
+        "option": [
+            207,
+            445,
+            84,
+            813
+        ],
+        "answer": 84
+    },
+    {
+        "question": "Attendees at a charity dinner each gave at least $70 to the charity and a total of $8222 was collected. What is the maximum number of people who could have attended when the total amount collected was doubled?",
+        "option": [
+            760,
+            117,
+            452,
+            344
+        ],
+        "answer": 117
+    },
+    {
+        "question": "Attendees at a charity dinner each gave at least $56 to the charity and a total of $4110 was collected. What is the maximum number of people who could have attended when the total amount collected was doubled?",
+        "option": [
+            160,
+            537,
+            33,
+            73
+        ],
+        "answer": 73
+    },
+    {
+        "question": "Attendees at a charity dinner each gave at least $92 to the charity and a total of $13161 was collected. What is the maximum number of people who could have attended when the total amount collected was tripled?",
+        "option": [
+            143,
+            583,
+            915,
+            948
+        ],
+        "answer": 143
+    },
+    {
+        "question": "What is your average speed in kph if you travel 45 miles in 7 hours and 10 minutes?",
+        "option": [
+            9.250260769602269,
+            10.046511627906977,
+            7.851010359146695,
+            4.747057756734756
+        ],
+        "answer": 10.046511627906977
+    },
+    {
+        "question": "What is your average speed in kph if you travel 77 miles in 4 hours and 19 minutes?",
+        "option": [
+            9.70329172049674,
+            28.54054054054054,
+            8.731471285788414,
+            2.6797467834096054
+        ],
+        "answer": 28.54054054054054
+    },
+    {
+        "question": "What is your average speed in kpm if you travel 73 miles in 5 hours and 47 minutes?",
+        "option": [
+            5.165690754991842,
+            6.974667831413717,
+            0.33659942363112394,
+            9.970047515504024
+        ],
+        "answer": 0.33659942363112394
+    },
+    {
+        "question": "What is your average speed in kpm if you travel 65 miles in 8 hours and 48 minutes?",
+        "option": [
+            6.5427381509492495,
+            1.1230289514386498,
+            0.19696969696969696,
+            6.311135368122189
+        ],
+        "answer": 0.19696969696969696
+    },
+    {
+        "question": "What is your average speed in mpm if you travel 89 miles in 5 hours and 54 minutes?",
+        "option": [
+            5.269012528184183,
+            0.2514124293785311,
+            8.360373307577868,
+            3.331982704441924
+        ],
+        "answer": 0.2514124293785311
+    },
+    {
+        "question": "What is your average speed in mph if you travel 43 miles in 8 hours and 32 minutes?",
+        "option": [
+            2.9411606239006893,
+            7.9523343983800245,
+            6.963216312674847,
+            5.0390625
+        ],
+        "answer": 5.0390625
+    },
+    {
+        "question": "What is your average speed in mph if you travel 43 miles in 8 hours and 39 minutes?",
+        "option": [
+            4.971098265895954,
+            3.948294452767709,
+            3.5539633495459975,
+            8.571450769277337
+        ],
+        "answer": 4.971098265895954
+    },
+    {
+        "question": "What is your average speed in mph if you travel 86 miles in 9 hours and 11 minutes?",
+        "option": [
+            9.408935820753058,
+            9.165375427431567,
+            9.364791288566243,
+            2.7831902165423403
+        ],
+        "answer": 9.364791288566243
+    },
+    {
+        "question": "If a taxi charges $9 for the first mile, and $1.00 for each additional quarter mile, how much does the taxi charge for a 28.9 mile ride?",
+        "option": [
+            459,
+            302,
+            120.6,
+            256
+        ],
+        "answer": 120.6
+    },
+    {
+        "question": "If a taxi charges $2 for the first mile, and $1.00 for each additional one-sixth mile, how much does the taxi charge for a 36.9 mile ride?",
+        "option": [
+            300,
+            301,
+            319,
+            217.4
+        ],
+        "answer": 217.4
+    },
+    {
+        "question": "If a taxi charges $8 for the first mile, and $1.00 for each additional one-tenth mile, how much does the taxi charge for a 37.3 mile ride?",
+        "option": [
+            427,
+            334.7,
+            347,
+            441
+        ],
+        "answer": 334.7
+    },
+    {
+        "question": "If a taxi charges $7 for the first mile, and $1.00 for each additional quarter mile, how much does the taxi charge for a 7.9 mile ride?",
+        "option": [
+            154,
+            468,
+            75,
+            34.6
+        ],
+        "answer": 34.6
+    },
+    {
+        "question": "Alexander was a great fighter and held a larger empire than any king born before or after him. He started learning new skills when he was 11 years old in the year 1617. When was alexander born?",
+        "option": [
+            1651,
+            1611,
+            1606,
+            1898
+        ],
+        "answer": 1606
+    },
+    {
+        "question": "Alexander was a great fighter and held a larger empire than any king born before or after him. He started learning new skills when he was 8 years old in the year 1297. When was alexander born?",
+        "option": [
+            1785,
+            1764,
+            1605,
+            1289
+        ],
+        "answer": 1289
+    },
+    {
+        "question": "Alexander was a great fighter and held a larger empire than any king born before or after him. He started learning new skills when he was 16 years old in the year 1393. When was alexander born?",
+        "option": [
+            1779,
+            1891,
+            1455,
+            1377
+        ],
+        "answer": 1377
+    }
+]
