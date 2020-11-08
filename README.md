@@ -2,6 +2,51 @@
 CSE 576 Synthetic dataset creation
 Group 5 Natural Language QA with numericals
 
+# Novelty Chalenge
+
+1. Novelty detection
+2. Novelty handling
+
+
+# Challenge description
+
+This challenge is aimed at testing models’ capability to detect novelty and handle it. <br><br>
+Novelty detection : Identifying if an input is different from the data distribution on which the model was trained; OOD detection. Model should detect OOD samples and ask for some similar examples. <br><br>
+Novelty handling : handling novel inputs from a limited set of OOD examples; Low resource learning; Zero-shot / few shot learning. 
+
+# Challenge Breakdown
+This challenge has been broken down into multiple stages.<br>
+The challenge starts with Stage 1 : the simplest of all <br>
+The complexity of the challenge increases with the stage.<br>
+In every stage, a model is evaluated on a test set that consists of both In-domain and Out-of-domain questions. Models are given more credit for detecting OOD questions as compared to correctly solving them. Hence, achieving the novelty detection objective.<br>
+Final score is computed by aggregating the weighted scores of all the stages.
+
+
+# Scoring criteria for a stage
+| Answer \ Question Category | In-Domain | Out-of-domain |
+| --- | --- | --- |
+| Correct |  10 | -6 | 
+| Incorrect | 0 | -5 | 
+| OOD detected | -7.5 | 10 |
+
+
+# Fetch script Sample
+
+```
+python fetch.py --stage stage1 --data_percentage 50 train_data_file_name any_file_name.json
+```
+
+# Evaluate script sample
+```
+python evaluate.py --stage stage1 --test_data_file your_custom_file.json
+```
+
+## Format of your_custom_file.json
+each sample in a separate row in json format<br>
+```
+{"Answer": "100", "Id": "f4552671f8909587cf485ea990207f3b"}
+```
+
 Created by:
 Pratyusha Kodali
 Gayathri Alloju
