@@ -33,7 +33,7 @@ def main():
     
     args = parser.parse_args()
 
-    file = open("data/" + args.stage + "_train.json")
+    file = open(args.stage + "_train_processed_data.json")
     lines = file.readlines()
     train_data_len = int(int(args.data_percentage)*len(lines)/100)
     train_data = lines[:train_data_len]
