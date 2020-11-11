@@ -13,7 +13,7 @@
                     },
                     "spans": []
                 },
-                "id": "4aecfbe5d21e3f7912bf8eb29124423a"
+                "query_id": "4aecfbe5d21e3f7912bf8eb29124423a"
             }
         ]
     },
@@ -31,7 +31,7 @@
                     },
                     "spans": []
                 },
-                "id": "c5866e93cab1776890fe343c9e7063fb"
+                "query_id": "c5866e93cab1776890fe343c9e7063fb"
             }
         ]
     },
@@ -49,7 +49,7 @@
                     },
                     "spans": []
                 },
-                "id": "273448411df1962cba1db6c05b3213c9"
+                "query_id": "273448411df1962cba1db6c05b3213c9"
             }
         ]
     },
@@ -67,7 +67,7 @@
                     },
                     "spans": []
                 },
-                "id": "a07c2f3b3b907aaf8436a26c6d77f0a2"
+                "query_id": "a07c2f3b3b907aaf8436a26c6d77f0a2"
             }
         ]
     },
@@ -85,7 +85,7 @@
                     },
                     "spans": []
                 },
-                "id": "130f1a8e9e102707f3f91b010f151b0b"
+                "query_id": "130f1a8e9e102707f3f91b010f151b0b"
             }
         ]
     },
@@ -103,7 +103,7 @@
                     },
                     "spans": []
                 },
-                "id": "86ecfcbc1e9f1ae5ee2d71910877da36"
+                "query_id": "86ecfcbc1e9f1ae5ee2d71910877da36"
             }
         ]
     },
@@ -121,7 +121,7 @@
                     },
                     "spans": []
                 },
-                "id": "d5e2fbef30a4eb668a203060ec8e5eef"
+                "query_id": "d5e2fbef30a4eb668a203060ec8e5eef"
             }
         ]
     },
@@ -139,7 +139,7 @@
                     },
                     "spans": []
                 },
-                "id": "f976b57bb9dd27aa2e7e7df2825893a6"
+                "query_id": "f976b57bb9dd27aa2e7e7df2825893a6"
             }
         ]
     },
@@ -157,7 +157,7 @@
                     },
                     "spans": []
                 },
-                "id": "24f0d2c90473b2bc949ad962e61d9bcb"
+                "query_id": "24f0d2c90473b2bc949ad962e61d9bcb"
             }
         ]
     },
@@ -175,7 +175,7 @@
                     },
                     "spans": []
                 },
-                "id": "af5d5ef24881f3c3049a7b9bfe74d58b"
+                "query_id": "af5d5ef24881f3c3049a7b9bfe74d58b"
             }
         ]
     },
@@ -193,7 +193,7 @@
                     },
                     "spans": []
                 },
-                "id": "23af4b45f1e166141a790d1a3126e77a"
+                "query_id": "23af4b45f1e166141a790d1a3126e77a"
             }
         ]
     },
@@ -211,7 +211,7 @@
                     },
                     "spans": []
                 },
-                "id": "2056d8c1dec3d12cbce646b348d189d1"
+                "query_id": "2056d8c1dec3d12cbce646b348d189d1"
             }
         ]
     },
@@ -229,7 +229,7 @@
                     },
                     "spans": []
                 },
-                "id": "d6bcb486f72ae7b5dc68b5b7df7ec887"
+                "query_id": "d6bcb486f72ae7b5dc68b5b7df7ec887"
             }
         ]
     },
@@ -247,7 +247,7 @@
                     },
                     "spans": []
                 },
-                "id": "71560ce98c8250ce57a6a970c9991a5f"
+                "query_id": "71560ce98c8250ce57a6a970c9991a5f"
             }
         ]
     },
@@ -265,7 +265,7 @@
                     },
                     "spans": []
                 },
-                "id": "ee26fc66b1369c7625333bedafbfcaf6"
+                "query_id": "ee26fc66b1369c7625333bedafbfcaf6"
             }
         ]
     },
@@ -283,7 +283,7 @@
                     },
                     "spans": []
                 },
-                "id": "c3614206a443012045cfd75d2600af2d"
+                "query_id": "c3614206a443012045cfd75d2600af2d"
             }
         ]
     },
@@ -301,7 +301,7 @@
                     },
                     "spans": []
                 },
-                "id": "8232e119d8f59aa83050a741631803a6"
+                "query_id": "8232e119d8f59aa83050a741631803a6"
             }
         ]
     },
@@ -319,7 +319,7 @@
                     },
                     "spans": []
                 },
-                "id": "40b5f25a228570053bc64a043c3f1833"
+                "query_id": "40b5f25a228570053bc64a043c3f1833"
             }
         ]
     },
@@ -337,7 +337,7 @@
                     },
                     "spans": []
                 },
-                "id": "e9412ee564384b987d086df32d4ce6b7"
+                "query_id": "e9412ee564384b987d086df32d4ce6b7"
             }
         ]
     },
@@ -355,7 +355,7 @@
                     },
                     "spans": []
                 },
-                "id": "d20be76a86c0d71c75035fced631f874"
+                "query_id": "d20be76a86c0d71c75035fced631f874"
             }
         ]
     },
@@ -373,7 +373,7 @@
                     },
                     "spans": []
                 },
-                "id": "a012869311d64a44b5a0d567cd20de04"
+                "query_id": "a012869311d64a44b5a0d567cd20de04"
             }
         ]
     },
@@ -391,7 +391,7 @@
                     },
                     "spans": []
                 },
-                "id": "7bc1ec1d9c3426357e69acd5bf320061"
+                "query_id": "7bc1ec1d9c3426357e69acd5bf320061"
             }
         ]
     },
@@ -409,7 +409,7 @@
                     },
                     "spans": []
                 },
-                "id": "7827d1ec626c891d4b61a15c9dff296e"
+                "query_id": "7827d1ec626c891d4b61a15c9dff296e"
             }
         ]
     },
@@ -427,7 +427,7 @@
                     },
                     "spans": []
                 },
-                "id": "5d6646aad9bcc0be55b2c82f69750387"
+                "query_id": "5d6646aad9bcc0be55b2c82f69750387"
             }
         ]
     },
@@ -445,7 +445,7 @@
                     },
                     "spans": []
                 },
-                "id": "be53d253d6bc3258a8160556dda3e9b2"
+                "query_id": "be53d253d6bc3258a8160556dda3e9b2"
             }
         ]
     },
@@ -463,7 +463,7 @@
                     },
                     "spans": []
                 },
-                "id": "229754d7799160502a143a72f6789927"
+                "query_id": "229754d7799160502a143a72f6789927"
             }
         ]
     },
@@ -481,7 +481,7 @@
                     },
                     "spans": []
                 },
-                "id": "03cf87174debaccd689c90c34577b82f"
+                "query_id": "03cf87174debaccd689c90c34577b82f"
             }
         ]
     },
@@ -499,7 +499,7 @@
                     },
                     "spans": []
                 },
-                "id": "f8bf09f5fceaea80e1f864a1b48938bf"
+                "query_id": "f8bf09f5fceaea80e1f864a1b48938bf"
             }
         ]
     },
@@ -517,7 +517,7 @@
                     },
                     "spans": []
                 },
-                "id": "c3e4035af2a1cde9f21e1ae1951ac80b"
+                "query_id": "c3e4035af2a1cde9f21e1ae1951ac80b"
             }
         ]
     },
@@ -535,7 +535,7 @@
                     },
                     "spans": []
                 },
-                "id": "37d097caf1299d9aa79c2c2b843d2d78"
+                "query_id": "37d097caf1299d9aa79c2c2b843d2d78"
             }
         ]
     },
@@ -553,7 +553,7 @@
                     },
                     "spans": []
                 },
-                "id": "d04863f100d59b3eb688a11f95b0ae60"
+                "query_id": "d04863f100d59b3eb688a11f95b0ae60"
             }
         ]
     },
@@ -571,7 +571,7 @@
                     },
                     "spans": []
                 },
-                "id": "7884a9652e94555c70f96b6be63be216"
+                "query_id": "7884a9652e94555c70f96b6be63be216"
             }
         ]
     },
@@ -589,7 +589,7 @@
                     },
                     "spans": []
                 },
-                "id": "f0f6ba4b5e0000340312d33c212c3ae8"
+                "query_id": "f0f6ba4b5e0000340312d33c212c3ae8"
             }
         ]
     },
@@ -607,7 +607,7 @@
                     },
                     "spans": []
                 },
-                "id": "7e3b7a5bafcb0fa8e8dfe3ea6aca9186"
+                "query_id": "7e3b7a5bafcb0fa8e8dfe3ea6aca9186"
             }
         ]
     },
@@ -625,7 +625,7 @@
                     },
                     "spans": []
                 },
-                "id": "b23975176653284f1f7356ba5539cfcb"
+                "query_id": "b23975176653284f1f7356ba5539cfcb"
             }
         ]
     },
@@ -643,7 +643,7 @@
                     },
                     "spans": []
                 },
-                "id": "300891a62162b960cf02ce3827bb363c"
+                "query_id": "300891a62162b960cf02ce3827bb363c"
             }
         ]
     },
@@ -661,7 +661,7 @@
                     },
                     "spans": []
                 },
-                "id": "743394beff4b1282ba735e5e3723ed74"
+                "query_id": "743394beff4b1282ba735e5e3723ed74"
             }
         ]
     },
@@ -679,7 +679,7 @@
                     },
                     "spans": []
                 },
-                "id": "b5f1e8fb36cd7fbeb7988e8639ac79e9"
+                "query_id": "b5f1e8fb36cd7fbeb7988e8639ac79e9"
             }
         ]
     },
@@ -697,7 +697,7 @@
                     },
                     "spans": []
                 },
-                "id": "cd10c7f376188a4a2ca3e8fea2c03aeb"
+                "query_id": "cd10c7f376188a4a2ca3e8fea2c03aeb"
             }
         ]
     },
@@ -715,7 +715,7 @@
                     },
                     "spans": []
                 },
-                "id": "959ef477884b6ac2241b19ee4fb776ae"
+                "query_id": "959ef477884b6ac2241b19ee4fb776ae"
             }
         ]
     },
@@ -733,7 +733,7 @@
                     },
                     "spans": []
                 },
-                "id": "68d309812548887400e375eaa036d2f1"
+                "query_id": "68d309812548887400e375eaa036d2f1"
             }
         ]
     },
@@ -751,7 +751,7 @@
                     },
                     "spans": []
                 },
-                "id": "0a65e195cb51418279b6fa8d96847a60"
+                "query_id": "0a65e195cb51418279b6fa8d96847a60"
             }
         ]
     },
@@ -769,7 +769,7 @@
                     },
                     "spans": []
                 },
-                "id": "0b1ec366924b26fc98fa7b71a9c249cf"
+                "query_id": "0b1ec366924b26fc98fa7b71a9c249cf"
             }
         ]
     },
@@ -787,7 +787,7 @@
                     },
                     "spans": []
                 },
-                "id": "be6c7b094f88532b6c6b35bbcd525ee8"
+                "query_id": "be6c7b094f88532b6c6b35bbcd525ee8"
             }
         ]
     },
@@ -805,7 +805,7 @@
                     },
                     "spans": []
                 },
-                "id": "cb8da6767461f2812ae4290eac7cbc42"
+                "query_id": "cb8da6767461f2812ae4290eac7cbc42"
             }
         ]
     },
@@ -823,7 +823,7 @@
                     },
                     "spans": []
                 },
-                "id": "f3d9de86462c28781cbe5c47ef22c3e5"
+                "query_id": "f3d9de86462c28781cbe5c47ef22c3e5"
             }
         ]
     },
@@ -841,9 +841,8 @@
                     },
                     "spans": []
                 },
-                "id": "c3535febaff29fcb7c0d20cbe94391c7"
+                "query_id": "c3535febaff29fcb7c0d20cbe94391c7"
             }
         ]
-    },
-    "passage_47": {
-        "passage": "Mrs. Naidu bought 155 dollars in groceries. She paid her bill with 5-dollar notes and 20-dollar notes using a total of 13 notes",
+    }
+}
