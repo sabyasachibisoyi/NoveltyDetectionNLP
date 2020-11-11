@@ -51,7 +51,7 @@ Created by:
 Pratyusha Kodali
 Gayathri Alloju
 Vamshi Krishna Kangala
-Chandrahaas Chintabogutta: 1218686443
+Chandrahaas Chintalaboguda: 1218686443
 Sabyasachi Bisoyi 1218272029
 
 Dataset attached : data.json
