@@ -5,7 +5,7 @@
             {
                 "question": " How far did the fault line move in all?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -13,7 +13,7 @@
                     },
                     "spans": []
                 },
-                "id": "ff7d0f525b3be596a51fb919492c099c"
+                "query_id": "ff7d0f525b3be596a51fb919492c099c"
             }
         ]
     },
@@ -23,7 +23,7 @@
             {
                 "question": " How many orchid bushes will the park have when the workers are finished ? ",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -31,7 +31,7 @@
                     },
                     "spans": []
                 },
-                "id": "cf004fdc76fa1a4f25f62e0eb5261ca3"
+                "query_id": "cf004fdc76fa1a4f25f62e0eb5261ca3"
             }
         ]
     },
@@ -41,7 +41,7 @@
             {
                 "question": " How many bathing suits are available overall?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -49,7 +49,7 @@
                     },
                     "spans": []
                 },
-                "id": "d1e946f4e67db4b362ad23818a6fb78a"
+                "query_id": "d1e946f4e67db4b362ad23818a6fb78a"
             }
         ]
     },
@@ -59,7 +59,7 @@
             {
                 "question": " How many pennies does he have now ?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -67,7 +67,7 @@
                     },
                     "spans": []
                 },
-                "id": "81c650caac28cdefce4de5ddc18befa0"
+                "query_id": "81c650caac28cdefce4de5ddc18befa0"
             }
         ]
     },
@@ -77,7 +77,7 @@
             {
                 "question": " How much longer was the green caterpillar than the orange caterpillar?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -85,7 +85,7 @@
                     },
                     "spans": []
                 },
-                "id": "b432f34c5a997c8e7c806a895ecc5e25"
+                "query_id": "b432f34c5a997c8e7c806a895ecc5e25"
             }
         ]
     },
@@ -95,7 +95,7 @@
             {
                 "question": "6666666666666666 cup more , how much oil will be in the measuring cup ? ",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -103,7 +103,7 @@
                     },
                     "spans": []
                 },
-                "id": "31fefc0e570cb3860f2a6d4b38c6490d"
+                "query_id": "31fefc0e570cb3860f2a6d4b38c6490d"
             }
         ]
     },
@@ -113,7 +113,7 @@
             {
                 "question": " How many potatoes does Dan now have ? ",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -121,7 +121,7 @@
                     },
                     "spans": []
                 },
-                "id": "577bcc914f9e55d5e4e4f82f9f00e7d4"
+                "query_id": "577bcc914f9e55d5e4e4f82f9f00e7d4"
             }
         ]
     },
@@ -131,7 +131,7 @@
             {
                 "question": " How many chairs have been put out for the play?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -139,7 +139,7 @@
                     },
                     "spans": []
                 },
-                "id": "d554f7bb7be44a7267068a7df88ddd20"
+                "query_id": "d554f7bb7be44a7267068a7df88ddd20"
             }
         ]
     },
@@ -149,7 +149,7 @@
             {
                 "question": " If there are 8 boxes, how many bananas must go in each box?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -157,7 +157,7 @@
                     },
                     "spans": []
                 },
-                "id": "6766aa2750c19aad2fa1b32f36ed4aee"
+                "query_id": "6766aa2750c19aad2fa1b32f36ed4aee"
             }
         ]
     },
@@ -167,7 +167,7 @@
             {
                 "question": " If the eggs are divided equally among the students, how many does each student get?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -175,7 +175,7 @@
                     },
                     "spans": []
                 },
-                "id": "5e388103a391daabe3de1d76a6739ccd"
+                "query_id": "5e388103a391daabe3de1d76a6739ccd"
             }
         ]
     },
@@ -185,7 +185,7 @@
             {
                 "question": " What will the world grain demand be?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -193,7 +193,7 @@
                     },
                     "spans": []
                 },
-                "id": "2eace51d8f796d04991c831a07059758"
+                "query_id": "2eace51d8f796d04991c831a07059758"
             }
         ]
     },
@@ -203,7 +203,7 @@
             {
                 "question": " If every packet needs to contain 7 seeds, how many packets do they need?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -211,7 +211,7 @@
                     },
                     "spans": []
                 },
-                "id": "3683af9d6f6c06acee72992f2977f67e"
+                "query_id": "3683af9d6f6c06acee72992f2977f67e"
             }
         ]
     },
@@ -221,7 +221,7 @@
             {
                 "question": " How many cookies will each friend get?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -229,7 +229,7 @@
                     },
                     "spans": []
                 },
-                "id": "94c7bb58efc3b337800875b5d382a072"
+                "query_id": "94c7bb58efc3b337800875b5d382a072"
             }
         ]
     },
@@ -239,7 +239,7 @@
             {
                 "question": " How much more did the yellow block weigh than the green block?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -247,7 +247,7 @@
                     },
                     "spans": []
                 },
-                "id": "333222170ab9edca4785c39f55221fe7"
+                "query_id": "333222170ab9edca4785c39f55221fe7"
             }
         ]
     },
@@ -257,7 +257,7 @@
             {
                 "question": " How many whole boxes did he eat and how many Lemon Heads does he have left?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -265,7 +265,7 @@
                     },
                     "spans": []
                 },
-                "id": "3493894fa4ea036cfc6433c3e2ee63b0"
+                "query_id": "3493894fa4ea036cfc6433c3e2ee63b0"
             }
         ]
     },
@@ -275,7 +275,7 @@
             {
                 "question": " How much farther did Eve run than walk?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -283,7 +283,7 @@
                     },
                     "spans": []
                 },
-                "id": "7e9e346dc5fd268b49bf418523af8679"
+                "query_id": "7e9e346dc5fd268b49bf418523af8679"
             }
         ]
     },
@@ -293,7 +293,7 @@
             {
                 "question": " How many students were sitting in the lunchroom?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -301,7 +301,7 @@
                     },
                     "spans": []
                 },
-                "id": "0efe32849d230d7f53049ddc4a4b0c60"
+                "query_id": "0efe32849d230d7f53049ddc4a4b0c60"
             }
         ]
     },
@@ -311,7 +311,7 @@
             {
                 "question": " How many candies are left in the box?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -319,7 +319,7 @@
                     },
                     "spans": []
                 },
-                "id": "233509073ed3432027d48b1a83f5fbd2"
+                "query_id": "233509073ed3432027d48b1a83f5fbd2"
             }
         ]
     },
@@ -329,7 +329,7 @@
             {
                 "question": " How much farther did Craig ride than walk ? ",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -337,7 +337,7 @@
                     },
                     "spans": []
                 },
-                "id": "01161aaa0b6d1345dd8fe4e481144d84"
+                "query_id": "01161aaa0b6d1345dd8fe4e481144d84"
             }
         ]
     },
@@ -347,7 +347,7 @@
             {
                 "question": " How much more brown sugar did Victor use?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -355,7 +355,7 @@
                     },
                     "spans": []
                 },
-                "id": "958adb57686c2fdec5796398de5f317a"
+                "query_id": "958adb57686c2fdec5796398de5f317a"
             }
         ]
     },
@@ -365,7 +365,7 @@
             {
                 "question": " How many soccer games did Jessica go to in all ?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -373,7 +373,7 @@
                     },
                     "spans": []
                 },
-                "id": "955a1584af63a546588caae4d23840b3"
+                "query_id": "955a1584af63a546588caae4d23840b3"
             }
         ]
     },
@@ -383,7 +383,7 @@
             {
                 "question": " How many pieces of candy did Bobby eat?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -391,7 +391,7 @@
                     },
                     "spans": []
                 },
-                "id": "aba3b6fd5d186d28e06ff97135cade7f"
+                "query_id": "aba3b6fd5d186d28e06ff97135cade7f"
             }
         ]
     },
@@ -401,7 +401,7 @@
             {
                 "question": " How many rulers are now there in all ? ",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -409,7 +409,7 @@
                     },
                     "spans": []
                 },
-                "id": "6ea9ab1baa0efb9e19094440c317e21b"
+                "query_id": "6ea9ab1baa0efb9e19094440c317e21b"
             }
         ]
     },
@@ -419,7 +419,7 @@
             {
                 "question": " How long did Jose wander?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -427,7 +427,7 @@
                     },
                     "spans": []
                 },
-                "id": "b7b16ecf8ca53723593894116071700c"
+                "query_id": "b7b16ecf8ca53723593894116071700c"
             }
         ]
     },
@@ -437,7 +437,7 @@
             {
                 "question": " If Haley has 35 marbles, how many will each of the boys receive?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -445,7 +445,7 @@
                     },
                     "spans": []
                 },
-                "id": "7d2b92b6726c241134dae6cd3fb8c182"
+                "query_id": "7d2b92b6726c241134dae6cd3fb8c182"
             }
         ]
     },
@@ -455,7 +455,7 @@
             {
                 "question": "If Victor split 25 Skittles between 5 people in her class and kept the left overs, how many Skittles did each classmate get?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -463,7 +463,7 @@
                     },
                     "spans": []
                 },
-                "id": "605ff764c617d3cd28dbbdd72be8f9a2"
+                "query_id": "605ff764c617d3cd28dbbdd72be8f9a2"
             }
         ]
     },
@@ -473,7 +473,7 @@
             {
                 "question": " How many carrots did they grow in total ? ",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -481,7 +481,7 @@
                     },
                     "spans": []
                 },
-                "id": "c74d97b01eae257e44aa9d5bade97baf"
+                "query_id": "c74d97b01eae257e44aa9d5bade97baf"
             }
         ]
     },
@@ -491,7 +491,7 @@
             {
                 "question": " How many tee-shirts can be made with 60 feet of material?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -499,7 +499,7 @@
                     },
                     "spans": []
                 },
-                "id": "b86e8d03fe992d1b0e19656875ee557c"
+                "query_id": "b86e8d03fe992d1b0e19656875ee557c"
             }
         ]
     },
@@ -509,7 +509,7 @@
             {
                 "question": " How many heads of cabbage does Albert have in  all?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -517,7 +517,7 @@
                     },
                     "spans": []
                 },
-                "id": "f57a2f557b098c43f11ab969efe1504b"
+                "query_id": "f57a2f557b098c43f11ab969efe1504b"
             }
         ]
     },
@@ -527,7 +527,7 @@
             {
                 "question": " How many bees did she see on the second day?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -535,7 +535,7 @@
                     },
                     "spans": []
                 },
-                "id": "4b0250793549726d5c1ea3906726ebfe"
+                "query_id": "4b0250793549726d5c1ea3906726ebfe"
             }
         ]
     },
@@ -545,7 +545,7 @@
             {
                 "question": " How many oranges did Stephanie buy last month?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -553,7 +553,7 @@
                     },
                     "spans": []
                 },
-                "id": "d64a340bcb633f536d56e51874281454"
+                "query_id": "d64a340bcb633f536d56e51874281454"
             }
         ]
     },
@@ -563,7 +563,7 @@
             {
                 "question": "  How many cents does Sara have ?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -571,7 +571,7 @@
                     },
                     "spans": []
                 },
-                "id": "3e7e0224018ab3cf51abb96464d518cd"
+                "query_id": "3e7e0224018ab3cf51abb96464d518cd"
             }
         ]
     },
@@ -581,7 +581,7 @@
             {
                 "question": " How many bananas are there in the pile?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -589,7 +589,7 @@
                     },
                     "spans": []
                 },
-                "id": "3435c378bb76d4357324dd7e69f3cd18"
+                "query_id": "3435c378bb76d4357324dd7e69f3cd18"
             }
         ]
     },
@@ -599,7 +599,7 @@
             {
                 "question": " How many pigs came to join  them?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -607,7 +607,7 @@
                     },
                     "spans": []
                 },
-                "id": "4b04a686b0ad13dce35fa99fa4161c65"
+                "query_id": "4b04a686b0ad13dce35fa99fa4161c65"
             }
         ]
     },
@@ -617,7 +617,7 @@
             {
                 "question": " How many buses are needed to take the trip?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -625,7 +625,7 @@
                     },
                     "spans": []
                 },
-                "id": "7dcd340d84f762eba80aa538b0c527f7"
+                "query_id": "7dcd340d84f762eba80aa538b0c527f7"
             }
         ]
     },
@@ -635,7 +635,7 @@
             {
                 "question": " How much honey remains?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -643,7 +643,7 @@
                     },
                     "spans": []
                 },
-                "id": "139f0874f2ded2e41b0393c4ac5644f7"
+                "query_id": "139f0874f2ded2e41b0393c4ac5644f7"
             }
         ]
     },
@@ -653,7 +653,7 @@
             {
                 "question": "  If the games are equally divided, how many soccer games are played a month ?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -661,7 +661,7 @@
                     },
                     "spans": []
                 },
-                "id": "c0560792e4a3c79e62f76cbf9fb277dd"
+                "query_id": "c0560792e4a3c79e62f76cbf9fb277dd"
             }
         ]
     },
@@ -671,7 +671,7 @@
             {
                 "question": " How many miles can I drive on 5 gallons of gas?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -679,7 +679,7 @@
                     },
                     "spans": []
                 },
-                "id": "f4552671f8909587cf485ea990207f3b"
+                "query_id": "f4552671f8909587cf485ea990207f3b"
             }
         ]
     },
@@ -689,7 +689,7 @@
             {
                 "question": " How many bees did she see on the second day?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -697,7 +697,7 @@
                     },
                     "spans": []
                 },
-                "id": "71e09b16e21f7b6919bbfc43f6a5b2f0"
+                "query_id": "71e09b16e21f7b6919bbfc43f6a5b2f0"
             }
         ]
     },
@@ -707,7 +707,7 @@
             {
                 "question": " How many cases of 8 boxes, plus extra boxes does Jenny need to deliver?",
                 "answer": {
-                    "number": "252",
+                    "number": "4,12",
                     "date": {
                         "day": "",
                         "month": "",
@@ -715,7 +715,7 @@
                     },
                     "spans": []
                 },
-                "id": "766ebcd59621e305170616ba3d3dac32"
+                "query_id": "766ebcd59621e305170616ba3d3dac32"
             }
         ]
     }
