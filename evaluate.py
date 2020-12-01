@@ -4,7 +4,7 @@ import json
 def get_score(actual_answer, predicted_answer, in_domain):
     if(in_domain):
         if("," in actual_answer):
-            # stage 3 
+            # stage 3
             if("," in predicted_answer):
             # sort both actual_answer and predicted_answer and compare
                 actual_answer = actual_answer.split(",")
@@ -32,7 +32,7 @@ def get_score(actual_answer, predicted_answer, in_domain):
                 return 0
     else:
         if("," in actual_answer):
-            # stage 3 
+            # stage 3
             if("," in predicted_answer):
             # sort both actual_answer and predicted_answer and compare
                 actual_answer = actual_answer.split(",")
